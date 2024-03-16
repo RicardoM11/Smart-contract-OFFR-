@@ -4,7 +4,7 @@ This is a Solidity smart contract for the **OFFR Token**. The token **symbol is 
 ### Installation
 To use this smart contract, you will need to have the Solidity compiler installed. You can install it using npm (the Node.js package manager):
 ```javascript
-$ git clone https://github.com/fabiconcept/OFFR-Dapp.git
+$ git clone https://github.com/RicardoM11/Smart-contract-OFFR-.git
 $ yarn add -g solc
 ```
 
